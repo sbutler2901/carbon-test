@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@carbon/ibm-security": "^1.13.0",
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   }
 }
